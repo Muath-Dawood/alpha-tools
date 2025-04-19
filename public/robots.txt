@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https:woman.bestclinic24.com/
+
+# Sitemaps
+Sitemap: https:woman.bestclinic24.com/sitemap.xml
