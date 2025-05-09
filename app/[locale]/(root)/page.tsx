@@ -11,6 +11,11 @@ import BookingForm from "@/components/shared/booking-form/BookingForm";
 import AboutUs from "./_components/AboutUs";
 import Treatments from "./_components/Treatments";
 import Contact from "@/components/shared/ContactUs";
+import WhyChoose from "./_components/WhyChoose";
+import MakeAppointment from "@/components/shared/MakeAppointment";
+import UnspokenIssues from "./_components/UnspokenIssues";
+import Principles from "./_components/Principles";
+import WellBeing from "./_components/WellBeing";
 
 export default function Home({ params }: { params: { locale: Locale } }) {
   unstable_setRequestLocale(params.locale);
@@ -18,12 +23,17 @@ export default function Home({ params }: { params: { locale: Locale } }) {
   return (
     <main className="flex-center mt-5 w-full flex-col gap-20 px-5 sm:gap-36 2xl:px-0">
       <HeroSection />
-      <Experience />
+      <WhyChoose />
+      <AboutUs />
+      <MakeAppointment page="about" />
+      <UnspokenIssues />
+      <Principles />
+      <WellBeing />
+      {/* <Experience />
       <TreatmentsBenefits />
       <Treatments />
       <GetInTouch />
-      <BookingForm />
-      <AboutUs />
+      <BookingForm /> */}
       <Team />
       <Testimonials />
       <Faq />

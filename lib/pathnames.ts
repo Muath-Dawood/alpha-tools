@@ -1,8 +1,8 @@
 export const pathnames = {
   "/": "/",
-  "/#Diseases and Treatments": {
-    en: "/#Diseases and Treatments",
-    ar: "/#الأمراض والعلاجات",
+  "/#home": {
+    en: "/#home",
+    ar: "/#الرئيسية",
   },
   "/#book now": {
     en: "/#book now",
@@ -16,9 +16,9 @@ export const pathnames = {
     en: "/#about us",
     ar: "/#من نحن",
   },
-  "/#benefits of treatment": {
-    en: "/#benefits of treatment",
-    ar: "/#فوائد العلاج",
+  "/#issues": {
+    en: "/#issues",
+    ar: "/#مشكلات",
   },
   "/#contact": {
     en: "/#contact",

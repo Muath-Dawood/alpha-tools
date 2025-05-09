@@ -7,7 +7,7 @@ const Statistics = () => {
   return (
     <div className="flex-center mx-auto w-full max-w-[1024px] flex-col justify-between gap-y-8 md:flex-row lg:px-8">
       <div className="flex-center flex-col">
-        <div className="text-[3rem] leading-[3.25rem] text-[#B3658C]">
+        <div className="bg-gradient-to-r from-[#0E948A] to-[#C5EAE9] bg-clip-text text-[3rem] leading-[3.25rem] text-transparent">
           <AnimatedNumber displayed="1,000" from={0} to={1000} />+
         </div>
 
@@ -17,7 +17,7 @@ const Statistics = () => {
       </div>
 
       <div className="flex-center flex-col">
-        <div className="text-[3rem] leading-[3.25rem] text-[#B3658C]">
+        <div className="bg-gradient-to-r from-[#0E948A] to-[#C5EAE9] bg-clip-text text-[3rem] leading-[3.25rem] text-transparent">
           <AnimatedNumber displayed="25" from={0} to={25} />+
         </div>
 
@@ -27,7 +27,7 @@ const Statistics = () => {
       </div>
 
       <div className="flex-center flex-col">
-        <div className="text-[3rem] leading-[3.25rem] text-[#B3658C]">
+        <div className="bg-gradient-to-r from-[#0E948A] to-[#C5EAE9] bg-clip-text text-[3rem] leading-[3.25rem] text-transparent">
           <AnimatedNumber displayed="98" from={0} to={98} />%
         </div>
 
@@ -37,7 +37,7 @@ const Statistics = () => {
       </div>
 
       <div className="flex-center flex-col">
-        <div className="text-[3rem] leading-[3.25rem] text-[#B3658C]">
+        <div className="bg-gradient-to-r from-[#0E948A] to-[#C5EAE9] bg-clip-text text-[3rem] leading-[3.25rem] text-transparent">
           <AnimatedNumber displayed="15" from={0} to={15} />+
         </div>
 

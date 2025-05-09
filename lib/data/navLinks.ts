@@ -1,7 +1,7 @@
 export const links = [
   {
-    name: "diseases and treatments",
-    href: "/#Diseases and Treatments",
+    name: "home",
+    href: "/#home",
   },
   {
     name: "book now",
@@ -16,8 +16,8 @@ export const links = [
     href: "/#about us",
   },
   {
-    name: "benefits of treatment",
-    href: "/#benefits of treatment",
+    name: "issues",
+    href: "/#issues",
   },
   {
     name: "Frequently Asked Questions",

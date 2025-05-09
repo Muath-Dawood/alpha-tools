@@ -18,11 +18,11 @@ const IntroVideo = (props: IntroVideoProps) => {
     <section className={cn("mt-10 w-full sm:mt-16", props.containerClassName)}>
       <div
         className={cn(
-          "flex-center relative mx-auto aspect-[2.14] max-w-[1200px] rounded-xl",
+          "flex-center relative mx-auto aspect-[2.14] max-w-[1200px] rounded-xl bg-secondary-background",
           props.className,
         )}
       >
-        <div className="absolute -top-[70%] h-[110%] w-[94%] overflow-hidden rounded-xl md:-top-[30%]">
+        <div className="absolute -top-[16%] h-[110%] w-[94%] overflow-hidden rounded-xl">
           <ReactPlayer
             url={props.url}
             height={"100%"}

@@ -53,7 +53,7 @@ const Faq = () => {
           )}
           style={{
             background:
-              "linear-gradient(239.48deg, rgba(179, 101, 140, 0.24) 16.91%, rgba(255, 255, 255, 0.6) 98.33%)",
+              "linear-gradient(239.48deg, #0E948A 16.91%, rgba(255, 255, 255, 0.6) 98.33%)",
           }}
         >
           <Image
@@ -61,8 +61,8 @@ const Faq = () => {
             className="w-[35%] rounded-xl object-cover lg:w-full xl:w-full"
             alt="doctor"
           />
-          <h1 className="text-[32px] font-[700] text-[#3D3D3D]">
-            {translation("Do you need help")}
+          <h1 className="text-[32px] font-medium text-[#3D3D3D]">
+            {translation("Need help?  Talk to our expert")}
           </h1>
 
           <a href="tel:+970598070808">

@@ -8,6 +8,7 @@ import { treatments } from "@/lib/data/treatments";
 import { useTranslations, useLocale } from "next-intl";
 import { Locale } from "@/i18n.config";
 import Image from "next/image";
+
 const Treatments = () => {
   const translation = useTranslations("treatments");
   const dir = useTextDirection();

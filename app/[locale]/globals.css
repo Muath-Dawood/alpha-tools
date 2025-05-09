@@ -12,7 +12,7 @@
   }
 
   .carousel_with_nav_scrollbar::-webkit-scrollbar-thumb {
-    background-color: #B3658C;
+    background-color: #04ad9e;
     cursor: pointer;
     border-radius: 9999px;
   }
@@ -20,25 +20,25 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%; 
-    --primary-background:330 39% 55%; 
-    --secondary-background:330 39% 55%;
-    --foreground: 0 0% 7%; 
-    --card: 0 0% 100%; 
-    --card-foreground: 0 0% 7%; 
-    --popover: 0 0% 100%; 
-    --popover-foreground: 0 0% 7%; 
-    --primary: 330 39% 55%; 
-    --primary-foreground: 0 0% 100%; 
-    --secondary:330 39% 55%; 
-    --secondary-foreground: 0 0% 7%; 
-    --muted: 174 20% 90%; 
-    --muted-foreground: 0 0% 54%; 
-    --accent: 330 39% 50%; 
-    --accent-foreground: 0 0% 100%; 
-    --destructive: 0 84.2% 60.2%; 
-    --destructive-foreground: 0 0% 100%; 
-    --border: 0 0% 85%; 
+    --background: 0 0% 100%;
+    --primary-background: 176 93% 23%;
+    --secondary-background: 174 100% 42%;
+    --foreground: 0 0% 24%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 7%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 7%;
+    --primary: 175 95% 35%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 330 39% 55%;
+    --secondary-foreground: 0 0% 7%;
+    --muted: 174 20% 90%;
+    --muted-foreground: 0 0% 54%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 85%;
     --input: 0 0% 85%;
     --ring: 0 0% 7%;
     --radius: 0.5rem;
@@ -50,7 +50,6 @@
     --chart-4: 174 80% 50%; /* Lighter teal */
     --chart-5: 174 60% 70%; /* Even lighter teal */
   }
-
 }
 
 @layer base {
@@ -82,9 +81,9 @@
   }
 
   ::-webkit-scrollbar-thumb {
-    background-color: #B3658C;
+    background-color: #04ad9e;
     cursor: pointer;
-    outline: 3px #B3658C solid;
+    outline: 3px #04ad9e solid;
     border-radius: 9999px;
   }
 
@@ -117,7 +116,6 @@
     border-radius: 0.9375rem;
   }
 
-
   .contact-us-bg {
     background-image: url("/images/contact-us-bg.svg");
     background-repeat: no-repeat;
@@ -129,8 +127,6 @@
     border-radius: 0.9375rem;
   }
 
-
-
   .contact-us-bg-ar {
     background-image: url("/images/contact-us-bg-ar.svg");
     background-repeat: no-repeat;
@@ -141,7 +137,6 @@
     position: relative;
     border-radius: 0.9375rem;
   }
-
 
   .btn-effects:not(:disabled) {
     @apply cursor-pointer select-none transition-all duration-300 active:bg-secondary-background active:text-white sm:hover:text-secondary-foreground;

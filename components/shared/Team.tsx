@@ -4,8 +4,6 @@ import Image from "next/image";
 import Animate from "@/components/shared/Animate";
 import useTextDirection from "@/hooks/useTextDirection";
 import { images } from "@/lib/data/images";
-import { Arrow } from "@radix-ui/react-select";
-import { BiLeftArrow, BiRightArrow } from "react-icons/bi";
 import { MdKeyboardArrowLeft, MdKeyboardArrowRight } from "react-icons/md";
 import { Locale } from "@/i18n.config";
 
@@ -21,7 +19,7 @@ const Team = () => {
       id={locale === "ar" ? "الفريق الطبي" : "medical team"}
     >
       <div className="flex flex-col gap-2 text-center">
-        <h2 className="text-[40px] font-[700] leading-[52px] text-[#3D3D3D]">
+        <h2 className="mx-auto text-center text-xl font-medium text-[#3D3D3D] sm:text-[2.5rem] sm:leading-[3.25rem] md:text-start">
           <Animate
             fromRight={dir === "ltr" ? 100 : -100}
             toRight={0}
@@ -33,7 +31,7 @@ const Team = () => {
             {translation("title")}
           </Animate>
         </h2>
-        <p className="text-[17px] font-[600] text-[#9F9F9F]">
+        <p className="mx-auto max-w-[69.125rem] text-center text-[17px] font-[600] text-[#9F9F9F]">
           <Animate
             fromLeft={dir === "ltr" ? 100 : -100}
             toLeft={0}

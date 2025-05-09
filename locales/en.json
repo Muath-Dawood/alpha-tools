@@ -90,10 +90,11 @@
   },
   "Hero Section": {
     "Sexuality and Reproduction": "Sexuality and Reproduction",
-    "Professional medical care for your health": "Professional medical care for your health",
+    "Your Path to Mental Wellness": "Your Path to Mental Wellness",
+    "Starts Here": "Starts Here",
     "Comprehensive care, real support, and complete privacy!": "Comprehensive care, real support, and complete privacy!",
-    "Book your appointment now": "Book Now!",
-    "description": "We care for women's sexual health in a safe and confidential environment, offering expert consultations, thorough examinations, and treatments tailored to your needs. Your comfort and privacy are our top priorities.",
+    "Book your appointment now": "Book an appointment",
+    "description": "At Best Clinic, we help partners navigate challenges, improve communication, and build a stronger foundation for the future. We're here to support your journey together.",
     "Contact us": "Contact us"
   },
   "navbar": {
@@ -106,13 +107,14 @@
     "thursday": "Thursday",
     "saturday": "Saturday",
     "sunday": "Sunday",
+    "home": "Home",
     "en": "EN",
     "ar": "AR",
     "menu": "Menu",
     "contact us": "Contact Us",
     "patient testimonials": "Patient Testimonials",
     "medical team": "Medical Team",
-    "benefits of treatment": "Benefits of treatment",
+    "issues": "Issues",
     "about us": "About Us",
     "book now": "Book Now",
     "inspiring experiences": "Inspiring experiences",
@@ -181,7 +183,7 @@
   "make an appointment": {
     "title": "How make an appointment",
     "book an appointment": "Book an appointment",
-    "desc": "If you are having difficulty determining the treatment you need, contact us chat:",
+    "desc": "Navigating your healthcare journey with Best clinic is seamless. Just follow these steps mentioned below to proceed with your selected services. You can also see our FAQ section for more guidance",
     "choose Your treatment": {
       "title": "Choose Your Treatment",
       "desc": "Choose Your Treatment: Tailored options for personalised care at our clinic. Select from a range of expert treatments designed to meet your unique health needs.",
@@ -466,8 +468,8 @@
     "our clinic desc": "Our clinic operates according to international medical standards to ensure comprehensive healthcare services. We begin with free medical consultations, followed by precise in-clinic diagnoses, allowing our medical team to accurately identify issues and their causes. We then guide you toward the most appropriate treatment plan for your condition, ensuring a professional and comfortable medical experience."
   },
   "team": {
-    "title": "Medical team",
-    "desc": "Our specialists drive innovation, blending experience, compassion, and skill to deliver expert care.",
+    "title": "Meet Our Expert Team of Doctors",
+    "desc": "Our team of specialists is at the forefront of medical innovation. Each specialist brings a unique blend of expertise, empathy, and experience to ensure that your health is in the best hands:",
     "speciality": "Speciality",
     "noor_khawaja": {
       "name": "Mr. Noor Khawaja",
@@ -520,6 +522,8 @@
     "desc": "Have a question? Check out our answers to the most frequently asked questions or contact us for further support and assistance.",
     "Do you need help": "Do you need help?",
     "Talk to our expert now!": "Ask an expert!",
+    "Need help?  Talk to our expert": "Need help?  Talk to our expert",
+    "Contact us for more infotmation": "Contact us for more infotmation",
     "should I visit the doctor after childbirth": {
       "title": "Should I visit the doctor after childbirth?",
       "desc": "It is recommended to visit the doctor shortly after childbirth (within 6 weeks) to ensure the mother’s recovery and monitor her overall health condition."
@@ -604,13 +608,13 @@
     "about us desc": "At Best Clinic, we provide personalized woman's health care focused on well-being and confidence. Our advanced treatments ensure comfort and help enhance sexual performance for a fulfilling life. Take the first step towards exceptional care today contact us to schedule your appointment and restore a healthy lifestyle.",
     "book an appointment": "Book an appointment",
     "i focus on personalised care to restore": "We offer personalized care to restore confidence and improve quality of life. By addressing erectile dysfunction, we help you achieve lasting well-being and a happy marital life.",
-    "we’re on a mission": "We’re on a Mission to Change your marital/ sexual life",
-    "The first clinic in Palestine specialised in treating sexual problems": "Clinic Best, the first clinic in Palestine specializing in treating sexual disorders and woman's health issues, uses the latest scientific and global technologies. With a specialized medical team, we offer you the most appropriate consultation and diagnosis for your condition, guiding you to the optimal treatment for your issue. Thanks to God, we have successfully helped over 100 woman restore their natural sexual lives, maintain marital happiness, and protect families from disintegration.",
-    "In our clinic, we uphold the highest levels of confidentiality and privacy": "In our clinic, we uphold the highest levels of confidentiality and privacy, from the first point of contact to the final stages of treatment and follow-up. We understand the sensitivity of your condition and are committed to providing assistance and treatment in the most comfortable and discreet manner.",
+    "Empowering Couples to Overcome Challenges Together": "Empowering Couples to Overcome Challenges Together",
+    "The first clinic in Palestine": "The first clinic in Palestine specialising in couples therapy and relationship counselling. We provide expert psychological support, evidence-based therapies, and the latest therapeutic approaches to help couples build stronger, healthier relationships in a safe and supportive environment.",
+    "Our clinic follows international standards": "Our clinic follows international standards in psychological care, ensuring a professional and compassionate approach from the first consultation. We offer free initial assessments, allowing our specialists to understand your concerns and provide a personalised treatment plan. Whether addressing communication challenges, emotional struggles, or intimacy issues, our team is dedicated to guiding you toward a more fulfilling relationship with trust, confidence, and lasting results.",
     "our Staff": "Our Staff",
-    "our staff desc": "Our team is composed of a select group of doctors specializing in urology and woman's health, with over 17 years of experience in the field. Thanks to God, we have been able to help many woman regain their natural sexual life and enjoyment, free from anxiety, stress, or frustration.",
+    "our staff desc": "Our team consists of experienced psychologists and relationship therapists with over 17 years of expertise in couples counselling and intimacy therapy. With a compassionate and professional approach, we have helped countless couples restore emotional connection, improve communication, and overcome relationship challenges—bringing back harmony, trust, and fulfilment to their lives.",
     "our clinic": "Our Clinic",
-    "our clinic desc": "The clinic operates according to a system that mirrors global standards and medical recommendations, starting with the initial contact with patients. This is followed by a clinical diagnosis within the clinic, allowing our medical team to accurately identify the problem and its cause, guiding you to the most appropriate treatment based on your medical condition, without randomness or lack of professionalism in care."
+    "our clinic desc": "At our clinic, we prioritise the highest levels of confidentiality and privacy from the very first consultation to treatment and follow-up. We understand the sensitivity of relationship and intimacy concerns, ensuring a safe, discreet, and supportive environment where you can seek guidance with complete peace of mind."
   },
   "blogs": {
     "View all blogs": "View all blogs",
@@ -1279,5 +1283,62 @@
     "question 6 title": "If your partner provided feedback, how would they describe the improvement they noticed in your sexual performance or comfort during penetration?",
     "response must be between 1 and 10": "The response must be between 1 and 10",
     "submit": "Submit"
+  },
+  "Unspoken issues - Unresolved conflicts": {
+    "title": "Unspoken issues - Unresolved conflicts",
+    "Before Seeking Help": "Before Seeking Help",
+    "Many couples struggle with conflict": "Many couples struggle with conflict and disconnection. Recognising the need for support is the first step to healing.",
+    "Recurring arguments & miscommunication": "Recurring arguments & miscommunication",
+    "Recurring arguments & miscommunication desc": "Recurring arguments and miscommunication involve repeated conflicts and misunderstandings due to unclear communication or unresolved issues.",
+
+    "Emotional distance affecting connection": "Emotional distance affecting connection",
+    "Emotional distance affecting connection desc": "Emotional distance occurs when individuals become detached or disconnected, leading to a lack of intimacy, understanding, and trust, which negatively impacts their.",
+
+    "Unresolved conflicts causing frustration": "Unresolved conflicts causing frustration",
+    "Unresolved conflicts causing frustration desc": "Unresolved conflicts cause frustration by creating tension, misunderstandings, unresolved emotions, and recurring negative patterns, blocking effective.",
+
+    "The Healing Process": "The Healing Process",
+    "Therapy helps couples": "Therapy helps couples resolve conflicts, improve communication, and rebuild trust.",
+
+    "Safe space for open conversations": "Safe space for open conversations",
+    "Safe space for open conversations desc": "A safe space for open conversations encourages honest dialogue in a supportive, non-judgmental environment.",
+
+    "Learning healthier communication": "Learning healthier communication",
+    "Learning healthier communication desc": "Learning healthier communication means expressing thoughts clearly, listening actively, and responding respectfully for stronger relationships.",
+
+    "Breaking negative patterns": "Breaking negative patterns",
+    "Breaking negative patterns desc": "Breaking negative patterns involves recognising harmful behaviours or cycles and replacing them with healthier, more constructive habits to improve relationships.",
+
+    "A Stronger Relationship": "A Stronger Relationship",
+    "After therapy, couples improve": "After therapy, couples improve communication, strengthen their connection, and better handle challenges together.",
+
+    "Confidence in handling challenges together": "Confidence in handling challenges together",
+    "Confidence in handling challenges together desc": "Confidence in handling challenges together means facing difficulties as a united team with trust and resilience.",
+
+    "Improved communication": "Improved communication",
+    "Improved communication desc": "Improved communication means expressing oneself clearly, listening effectively, and fostering understanding to strengthen relationships.",
+
+    "Tools for lasting harmony": "Tools for lasting harmony",
+    "Tools for lasting harmony desc": "Tools for lasting harmony include communication strategies and conflict resolution techniques that strengthen relationships."
+  },
+  "principle tha drive use": {
+    "Principles that Drives Us": "Principles that Drives Us",
+    "24/7 Customer Support": "24/7 Customer Support",
+    "Our team is here 24/7": "Our team is here 24/7 to assist with any questions or concerns.",
+    "Direct Access to Experts": "Direct Access to Experts",
+    "Connect with licensed": "Connect with licensed professionals for personalised and answers.",
+    "Timely Responses": "Timely Responses",
+    "We respond quickly and efficiently": "We respond quickly and efficiently to ensure you get the help you need.",
+    "Tailored Solutions": "Tailored Solutions",
+    "We offer tailored mental health": "We offer tailored mental health services to meet your needs."
+  },
+  "well being": {
+    "Transform Your Well-Being with Best Clinic": "Transform Your Well-Being with",
+    "Best Clinic": "Best Clinic",
+    "desc": "At Best Clinic, we are committed to holistic well-being through our specialised services. Our Women’s Health Clinic focuses on personalised care for every stage of a woman’s life. The Men’s Health Clinic provides expert support for physical and mental wellness. Our Couples Therapy Clinic helps partners strengthen their relationships and navigate challenges together. With a dedicated team of professionals, we ensure compassionate, high-quality care for individuals and couples alike.",
+    "Men’s Health Clinic": "Men’s Health Clinic",
+    "Women’s Health Clinic": "Women’s Health Clinic",
+    "Couple Therapy Clinic": "Couple Therapy Clinic",
+    "We help partners improve communication": "We help partners improve communication, resolve conflicts, and strengthen their bond in a supportive space."
   }
 }

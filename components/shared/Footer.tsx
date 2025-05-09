@@ -13,7 +13,7 @@ const Footer = () => {
   const translation = useTranslations("footer");
 
   return (
-    <footer className="mt-32 w-full max-w-[1400px] bg-[#fccde567] px-5 pb-5 pt-12">
+    <footer className="mt-32 w-full max-w-[1400px] bg-[#ECF9F8] px-5 pb-5 pt-12">
       <GetInTouch />
 
       <div className="mt-10 w-full">
@@ -115,9 +115,7 @@ const Footer = () => {
               <Link href={"/#inspiring experiences"}>
                 {translation("inspiring experiences")}
               </Link>
-              <Link href={"/#Diseases and Treatments"}>
-                {translation("diseases and treatments")}
-              </Link>
+              <Link href={"/#home"}>{translation("home")}</Link>
               <Link href={"/#medical team"}>{translation("medical team")}</Link>
               <Link href={"/#book now"}>{translation("book now")}</Link>
               <Link href={"/#patient testimonials"}>

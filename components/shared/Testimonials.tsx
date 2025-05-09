@@ -11,13 +11,14 @@ const Testimonials = () => {
   const translation = useTranslations("testimonials");
   const dir = useTextDirection();
   const locale = useLocale() as Locale;
+
   return (
     <section
-      className="mt-0 flex w-full flex-col items-center justify-between gap-10 overflow-hidden sm:w-screen lg:gap-16"
-      id={locale === "ar" ? "شهادات المرضى" : "patient-testimonials"}
+      className="mt-0 flex w-full scroll-m-28 flex-col items-center justify-between gap-10 sm:w-screen lg:gap-16"
+      id={locale === "ar" ? "شهادات المرضى" : "patient testimonials"}
     >
       <div className="flex-center relative flex w-full flex-col gap-4 text-center">
-        <h2 className="mx-auto text-[2.5rem] font-bold leading-[3.25rem]">
+        <h2 className="flex-center mx-auto flex-col text-center text-xl font-medium sm:text-[2.5rem] sm:leading-[3.25rem] md:text-start">
           <Animate
             fromRight={dir === "ltr" ? 100 : -100}
             toRight={0}
@@ -28,8 +29,19 @@ const Testimonials = () => {
           >
             {translation("title")}
           </Animate>
+
+          <Animate
+            fromLeft={dir === "ltr" ? 100 : -100}
+            toLeft={0}
+            initialOpacity={0}
+            finalOpcaity={1}
+            wrapper="span"
+            once={true}
+          >
+            {translation("subtitle")}
+          </Animate>
         </h2>
-        <p className="text-[24px] font-semibold text-[#9F9F9F]">
+        <p className="text-base font-semibold text-[#9F9F9F] sm:text-[24px]">
           <Animate
             fromLeft={dir === "ltr" ? 100 : -100}
             toLeft={0}

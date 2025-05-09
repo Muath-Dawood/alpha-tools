@@ -40,7 +40,7 @@ const Accordion = (props: AccordionProps) => {
             className={cn(
               "text-lg font-medium leading-5 sm:text-xl sm:leading-[1.875rem]",
               props.titleClassName,
-              isOpen ? "text-[#B3658C]" : "text-[#6D6D6D]",
+              isOpen ? "text-primary-background" : "text-[#6D6D6D]",
             )}
           >
             {props.title}

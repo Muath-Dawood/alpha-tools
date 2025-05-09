@@ -20,8 +20,8 @@ import doctor8 from "@/assets/images/doctor8.png";
 import circle from "@/assets/images/testimonials-circle.png";
 import treatment_bg from "@/assets/images/treatment_bg.png";
 import map from "@/assets/images/clinic_map.png";
-import clinic from "@/assets/icons/clinic.svg";
-import people from "@/assets/icons/people.svg";
+import clinic from "@/assets/icons/clinic.png";
+import people from "@/assets/icons/people.png";
 import arrowRight from "@/assets/images/arrow-right.png";
 import blog1 from "@/assets/images/blog1.png";
 import blog2 from "@/assets/images/blog2.png";
@@ -99,7 +99,6 @@ import circum_medical_cross from "@/assets/icons/circum_medical-cross.svg";
 import hugeicons_doctor_1 from "@/assets/icons/hugeicons_doctor-01.svg";
 import guidance_medical_laboratory from "@/assets/icons/guidance_medical-laboratory.svg";
 import contact_us_bg_01 from "@/assets/images/contact-us-bg.svg";
-import close_up_doctor_getting_ready_work_3 from "@/assets/images/close-up-doctor-getting-ready-work.svg";
 import hijabi_doctor_hero_section from "@/assets/images/hijabi_doctor_hero_section.svg";
 import lines_purple from "@/assets/images/lines_purple.svg";
 import personal_and_confidential_icon from "@/assets/icons/personal_and_confidential_icon.svg";
@@ -131,8 +130,28 @@ import treatment_of_recurrent_miscarriage_and_intrauterine_fetal_death_icon from
 import treatment_of_pelvic_muscle_weakness_icon from "@/assets/icons/Treatment of pelvic muscle weakness.svg";
 import gynecology_for_advanced_age_icon from "@/assets/icons/Gynecology for advanced age.svg";
 import pregnancy_and_fetal_health_follow_up_icon from "@/assets/icons/Pregnancy and fetal health follow-up.svg";
+import logoWithNoWords from "@/assets/icons/logo-nowords.png";
+import closeUpDoctor from "@/assets/images/close-up-doctor-getting-ready-work.png";
+import unspoken1 from "@/assets/images/unspoken-1.png";
+import unspoken2 from "@/assets/images/unspoken-2.png";
+import unspoken3 from "@/assets/images/unspoken-3.png";
+import hugeiconsIdea from "@/assets/icons/hugeicons_idea.png";
+import flash from "@/assets/icons/flash.png";
+import chat from "@/assets/icons/chat.png";
+import clockLight from "@/assets/icons/clock-light.png";
+import doctorHandShake from "@/assets/images/doctorhandshake.png";
 
 export const images = {
+  doctorHandShake,
+  closeUpDoctor,
+  hugeiconsIdea,
+  flash,
+  chat,
+  clockLight,
+  unspoken1,
+  unspoken2,
+  unspoken3,
+  logoWithNoWords,
   building_clinic_icon,
   tools_icon,
   universityـdegree_icon,
@@ -239,7 +258,6 @@ export const images = {
   hugeicons_doctor_1,
   guidance_medical_laboratory,
   contact_us_bg_01,
-  close_up_doctor_getting_ready_work_3,
   hijabi_doctor_hero_section,
   lines_purple,
   personal_and_confidential_icon,

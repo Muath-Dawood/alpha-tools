@@ -97,7 +97,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      <div className="mt-4 h-[70px] w-full rounded-[0.625rem] bg-primary-background">
+      <div className="mt-4 h-[70px] w-full rounded-[0.625rem] bg-primary">
         <div className="flex-center mx-auto h-full w-full max-w-[76rem] justify-between px-8">
           {links.map((link) => (
             <Link
@@ -128,7 +128,7 @@ const Navbar = () => {
                   <SelectItem
                     key={locale}
                     value={locale}
-                    className={`${curentLocale === locale ? "text-white hover:text-[#fff] focus:text-[#fff]" : ""} w-full cursor-pointer px-1 uppercase`}
+                    className={`${curentLocale === locale ? "text-primary hover:text-[#fff] focus:text-[#fff]" : ""} w-full cursor-pointer px-1 uppercase`}
                     withChecked={false}
                   >
                     {translation(locale)}

@@ -89,7 +89,7 @@ const ContactUs = () => {
           className="relative flex flex-col flex-wrap items-center justify-between gap-10 px-[20px] py-[30px] lg:px-[70px] xl:flex-row"
           style={{
             background:
-              "linear-gradient(239.48deg, rgba(179, 101, 140, 0.24) 16.91%, rgba(255, 255, 255, 0.6) 98.33%)",
+              "linear-gradient(239.48deg, #00AAA1 16.91%, rgba(255, 255, 255, 0.6) 98.33%)",
           }}
         >
           {/* clinic info start */}
@@ -227,7 +227,7 @@ const ContactUs = () => {
 
                 <div className="mt-4 flex w-full">
                   <button
-                    className={`${isLoading ? "active:bg-[#B3658C]" : ""} btn-effects flex h-[55px] w-full items-center justify-center gap-2 rounded-[10px] bg-[#B3658C] px-[30px] py-[16px] text-[16px] font-bold uppercase text-white`}
+                    className={`${isLoading ? "active:bg-primary-background" : ""} btn-effects flex h-[55px] w-full items-center justify-center gap-2 rounded-[10px] bg-primary px-[30px] py-[16px] text-[16px] font-bold uppercase text-white`}
                     type="submit"
                     disabled={isLoading}
                   >
