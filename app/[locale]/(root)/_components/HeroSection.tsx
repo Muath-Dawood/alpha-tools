@@ -59,7 +59,9 @@ const HeroSection = () => {
           <Image
             src={images.happy_adult_couple_hero_section}
             alt="adult_couple"
-            className="mx-auto"
+            fill
+            className="mx-auto object-cover"
+            priority
           />
 
           <Image
