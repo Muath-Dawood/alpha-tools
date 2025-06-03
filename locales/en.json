@@ -472,7 +472,7 @@
     "desc": "Our team of specialists is at the forefront of medical innovation. Each specialist brings a unique blend of expertise, empathy, and experience to ensure that your health is in the best hands:",
     "speciality": "Speciality",
     "noor_khawaja": {
-      "name": "Mr. Noor Khawaja",
+      "name": "Ms. Noor Khawaja",
       "specialites": ["Medical secretary", "Highly experienced"],
       "review": "“Ms. Noor Khawaja was also very nice. Her professionalism and assistance made my visit much more comfortable.”"
     },
@@ -480,6 +480,54 @@
       "name": "Dr. Khadija Zaki",
       "specialites": ["Gynecologist and obstetrician"],
       "review": ""
+    },
+    "aysar_hassoun": {
+      "name": "Dr. Aysar Hassoun",
+      "specialites": [
+        "Specialist in urological surgery",
+        "Men's health and ED specialist"
+      ],
+      "review": "“Dr. Aysar Hassoun also was very nice. I definitely will be recommending Doctor Aysar Hassoun to all of my families & friends.”"
+    },
+    "murad_hammouri": {
+      "name": "Dr. Murad Hammouri",
+      "specialites": [
+        "Specialist in urological surgery",
+        "Men's health and ED specialist"
+      ],
+      "review": "“Dr. Murad Hammouri also was very nice. I definitely will be recommending Doctor Murad Hammouri to all of my families & friends.”"
+    },
+    "moamen": {
+      "name": "Dr. Moamen",
+      "specialites": [
+        "Specialist in urological surgery",
+        "Men's health and ED specialist"
+      ],
+      "review": "“Dr. Moamen also was very nice. I definitely will be recommending Doctor Moamen to all of my families & friends.”"
+    },
+    "mohammad_subaih": {
+      "name": "Dr. Mohammad Subaih",
+      "specialites": [
+        "Specialist in urological surgery",
+        "Men's health and ED specialist"
+      ],
+      "review": "“Dr. Mohammad Subaih also was very nice. I definitely will be recommending Doctor Mohammad Subaih to all of my families & friends.”"
+    },
+    "bilal_zahaika": {
+      "name": "Nurse. Bilal Zahaika",
+      "specialites": [
+        "Critical Care Specialist Nurse",
+        "Extensive experience in handling complex cases and emergencies"
+      ],
+      "review": "“Bilal Zahaika also was very nice. I definitely will be recommending Nurse Bilal Zahaika to all of my families & friends.”"
+    },
+    "saleh": {
+      "name": "Nurse. Saleh",
+      "specialites": [
+        "Critical Care Specialist Nurse",
+        "Extensive experience in handling complex cases and emergencies"
+      ],
+      "review": "“Saleh also was very nice. I definitely will be recommending Nurse Saleh to all of my families & friends.”"
     }
   },
   "testimonials": {
