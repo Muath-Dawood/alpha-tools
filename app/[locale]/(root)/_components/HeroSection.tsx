@@ -57,8 +57,8 @@ const HeroSection = () => {
 
         <div className="flex-center relative w-full flex-1 lg:w-auto">
           <Image
-            src={images.hijabi_doctor_hero_section}
-            alt="doctor"
+            src={images.happy_adult_couple_hero_section}
+            alt="adult_couple"
             className="mx-auto"
           />
 

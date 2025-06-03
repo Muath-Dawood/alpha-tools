@@ -99,6 +99,7 @@ import circum_medical_cross from "@/assets/icons/circum_medical-cross.svg";
 import hugeicons_doctor_1 from "@/assets/icons/hugeicons_doctor-01.svg";
 import guidance_medical_laboratory from "@/assets/icons/guidance_medical-laboratory.svg";
 import contact_us_bg_01 from "@/assets/images/contact-us-bg.svg";
+import happy_adult_couple_hero_section from "@/assets/images/happy_adult_couple_hero_section.jpg";
 import hijabi_doctor_hero_section from "@/assets/images/hijabi_doctor_hero_section.svg";
 import lines_purple from "@/assets/images/lines_purple.svg";
 import personal_and_confidential_icon from "@/assets/icons/personal_and_confidential_icon.svg";
@@ -258,6 +259,7 @@ export const images = {
   hugeicons_doctor_1,
   guidance_medical_laboratory,
   contact_us_bg_01,
+  happy_adult_couple_hero_section,
   hijabi_doctor_hero_section,
   lines_purple,
   personal_and_confidential_icon,
