@@ -89,7 +89,7 @@ const ContactUs = () => {
           className="relative flex flex-col flex-wrap items-center justify-between gap-10 px-[20px] py-[30px] lg:px-[70px] xl:flex-row"
           style={{
             background:
-              "linear-gradient(239.48deg, #00AAA1 16.91%, rgba(255, 255, 255, 0.6) 98.33%)",
+              "linear-gradient(239.48deg, rgba(101, 179, 175, 0.283) 16.91%, rgba(255, 255, 255, 0.6) 98.33%)",
           }}
         >
           {/* clinic info start */}
@@ -127,7 +127,7 @@ const ContactUs = () => {
             </div>
             <div className="flex items-center">
               <HiOutlineLocationMarker className="me-2 min-h-6 min-w-6 text-primary-background" />
-              <div className="flex flex-wrap text-[16px] font-[400] text-[#6D6D6D]">
+              <div className="flex gap-2 flex-wrap text-[16px] font-[400] text-[#6D6D6D]">
                 <span>
                   {translation(
                     "Ramallah - Al-Manara - Roundabout - City Center",
