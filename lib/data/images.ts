@@ -1,3 +1,4 @@
+import alphaToolsLogo from "@/assets/images/alpha-tools-logo.png";
 import logo from "@/assets/images/logo.svg";
 import landingDoctor from "@/assets/images/landing-doctor.png";
 import lines from "@/assets/images/lines.svg";
@@ -143,6 +144,7 @@ import clockLight from "@/assets/icons/clock-light.png";
 import doctorHandShake from "@/assets/images/doctorhandshake.png";
 
 export const images = {
+  alphaToolsLogo,
   doctorHandShake,
   closeUpDoctor,
   hugeiconsIdea,

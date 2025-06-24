@@ -1,30 +1,22 @@
 export const links = [
   {
-    name: "home",
-    href: "/#home",
+    name: "electric generators",
+    href: "/#electric generators",
   },
   {
-    name: "book now",
-    href: "/#book now",
+    name: "tools for rent",
+    href: "/#tools for rent",
   },
   {
-    name: "patient testimonials",
-    href: "/#patient testimonials",
+    name: "services",
+    href: "/#services",
   },
   {
     name: "about us",
     href: "/#about us",
   },
   {
-    name: "issues",
-    href: "/#issues",
-  },
-  {
-    name: "Frequently Asked Questions",
-    href: "/#Frequently Asked Questions",
-  },
-  {
-    name: "contact us",
-    href: "/#contact",
+    name: "our customers",
+    href: "/#our customers",
   },
 ] as const;

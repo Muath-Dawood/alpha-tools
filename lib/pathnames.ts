@@ -1,47 +1,23 @@
 export const pathnames = {
   "/": "/",
-  "/#home": {
-    en: "/#home",
-    ar: "/#الرئيسية",
+  "/#electric generators": {
+    en: "/#electric generators",
+    ar: "/#مولدات كهربائية",
   },
-  "/#book now": {
-    en: "/#book now",
-    ar: "/#احجز الآن",
+  "/#tools for rent": {
+    en: "/#tools for rent",
+    ar: "/#أدوات للإيجار",
   },
-  "/#patient testimonials": {
-    en: "/#patient testimonials",
-    ar: "/#شهادات المرضى",
+  "/#services": {
+    en: "/#services",
+    ar: "/#الخدمات",
   },
   "/#about us": {
     en: "/#about us",
-    ar: "/#من نحن",
+    ar: "/#عن الشركة",
   },
-  "/#issues": {
-    en: "/#issues",
-    ar: "/#مشكلات",
-  },
-  "/#contact": {
-    en: "/#contact",
-    ar: "/#اتصل",
-  },
-  "/#Frequently Asked Questions": {
-    en: "/#Frequently Asked Questions",
-    ar: "/#الأسئلة الشائعة",
-  },
-  "/#inspiring experiences": {
-    en: "/#inspiring experiences",
-    ar: "/#تجارب ملهمة",
-  },
-  "/#medical team": {
-    en: "/#medical team",
-    ar: "/#الفريق الطبي",
-  },
-  "/terms": {
-    en: "/terms",
-    ar: "/شروط-الأستخدام",
-  },
-  "/privacy": {
-    en: "/privacy",
-    ar: "/خصوصية",
+  "/#our customers": {
+    en: "/#our customers",
+    ar: "/#زبائننا",
   },
 };

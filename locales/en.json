@@ -99,7 +99,9 @@
   },
   "navbar": {
     "Ramallah - Al-Manara - Roundabout - City Center": "Ramallah , Al-Manara Roundabout",
+    "Jerusalem - Wadi ElHommos - Almentar": "Jerusalem - Wadi ElHommos - Almentar",
     "Building - 5th Floor": "City Center Building, 5th Floor",
+    "near the concrete factory": "Near the Concrete Factory",
     "am": "am",
     "pm": "pm",
     "mon": "Mon",
@@ -119,7 +121,11 @@
     "book now": "Book Now",
     "inspiring experiences": "Inspiring experiences",
     "diseases and treatments": "Diseases and Treatments",
-    "Frequently Asked Questions": "FAQ"
+    "Frequently Asked Questions": "FAQ",
+    "electric generators": "Electric Generators",
+    "tools for rent": "Tools for Rent",
+    "services": "Services",
+    "our customers": "Our Customers"
   },
   "landing": {
     "Contact us to book an appointment": "Contact us",

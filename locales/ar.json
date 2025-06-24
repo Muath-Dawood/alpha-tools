@@ -99,7 +99,9 @@
   },
   "navbar": {
     "Ramallah - Al-Manara - Roundabout - City Center": "رام الله ، دوار المنارة ",
+    "Jerusalem - Wadi ElHommos - Almentar": "القدس، واد الحمص، المنطار",
     "Building - 5th Floor": "عمارة سيتي سنتر ، الطابق الخامس",
+    "near the concrete factory": "بالقرب من مصنع الباطون",
     "am": " صباحا ",
     "pm": " مساءاً ",
     "mon": "الإثنين",
@@ -114,12 +116,16 @@
     "inspiring experiences": "تجارب ملهمة",
     "medical team": "الفريق الطبي",
     "home": "الصفحة الرئيسية",
-    "about us": "من نحن",
+    "about us": "عن الشركة",
     "book now": "احجز الآن",
     "diseases and treatments": "الأمراض والعلاجات",
     "patient testimonials": "شهادات المرضى",
     "issues": "مشكلات",
-    "Frequently Asked Questions": "الأسئلة الشائعة"
+    "Frequently Asked Questions": "الأسئلة الشائعة",
+    "electric generators": "مولدات كهربائية",
+    "tools for rent": "أدوات للإيجار",
+    "services": "الخدمات",
+    "our customers": "زبائننا"
   },
   "landing": {
     "Contact us to book an appointment": "تواصل معنا لحجز موعد",
