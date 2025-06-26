@@ -27,7 +27,7 @@ const Navbar = () => {
   const dir = useTextDirection();
 
   return (
-    <nav className="sticky -top-20 z-[100] hidden w-full max-w-[1400px] text-primary-foreground px-5 lg:block 2xl:px-0">
+    <nav className="sticky -top-20 z-[100] hidden w-full text-primary-foreground px-5 lg:block 2xl:px-0">
       <div className="flex-center h-[70px] justify-center gap-3 xl:gap-5 2xl:gap-10 bg-secondary-background">
 
         <div className="flex-center gap-2">

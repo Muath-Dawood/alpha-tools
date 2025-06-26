@@ -74,7 +74,6 @@ export default function RootLayout({
       </div>
       <Footer />
       <Toaster position="top-center" />
-      <Chat />
     </div>
   );
 }
