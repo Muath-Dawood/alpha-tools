@@ -10,6 +10,10 @@ import makitaLogo from "@/assets/images/makita-logo.png";
 import dewaltLogo from "@/assets/images/dewalt-logo.png";
 import blackAndDeckerLogo from "@/assets/images/black-and-decker-logo.png";
 import aboutUs from "@/assets/images/about-us.png"
+import delivaryIcon from "@/assets/icons/quick-delivary-icon.png";
+import satisfactionIcon from "@/assets/icons/quality-satisfaction-icon.png";
+import pricesIcon from "@/assets/icons/affordable-prices.png";
+import easyIcon from "@/assets/icons/easy-return-icon.png"
 
 export const images = {
   alphaToolsLogo,
@@ -23,5 +27,9 @@ export const images = {
   makitaLogo,
   dewaltLogo,
   blackAndDeckerLogo,
-  aboutUs
+  aboutUs,
+  delivaryIcon,
+  satisfactionIcon,
+  pricesIcon,
+  easyIcon
 };

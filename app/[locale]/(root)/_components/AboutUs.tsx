@@ -7,7 +7,7 @@ function AboutUs() {
   const currentLocale = useLocale() as Locale;
 
   return (
-    <section className="w-full">
+    <section id="about us" className="w-full">
       <h1 className="text-5xl text-black text-center font-bold">{currentLocale === "en" ? "About Us" : "عن الشركة"}</h1>
       <div className="flex flex-row justify-center gap-5 w-full mt-4">
         <p className="text-3xl w-1/3">

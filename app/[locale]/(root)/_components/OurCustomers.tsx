@@ -7,7 +7,7 @@ function OurCustomers() {
   const currentLocale = useLocale() as Locale;
 
   return (
-    <section className="w-full">
+    <section id="our customers" className="w-full">
       <h1 className="text-5xl text-black text-center font-bold">{currentLocale === "en" ? "Our Customers" : "من زبائننا"}</h1>
       <div className="flex flex-row flex-wrap gap-20 justify-center w-full mt-4 px-36 py-10 bg-primary-background">
         <Image
