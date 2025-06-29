@@ -9,6 +9,7 @@ import boschLogo from "@/assets/images/bosch-logo.png";
 import makitaLogo from "@/assets/images/makita-logo.png";
 import dewaltLogo from "@/assets/images/dewalt-logo.png";
 import blackAndDeckerLogo from "@/assets/images/black-and-decker-logo.png";
+import aboutUs from "@/assets/images/about-us.png"
 
 export const images = {
   alphaToolsLogo,
@@ -22,4 +23,5 @@ export const images = {
   makitaLogo,
   dewaltLogo,
   blackAndDeckerLogo,
+  aboutUs
 };
