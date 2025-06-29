@@ -12,7 +12,7 @@ const Footer = () => {
   const translation = useTranslations("footer");
 
   return (
-    <footer className="mt-32 w-full bg-secondary-background px-5 pb-5 pt-12 text-gray-400">
+    <footer className="w-full bg-secondary-background px-5 pb-5 pt-12 text-gray-400">
       <div className="flex-center mx-auto w-[70%] flex-wrap items-start justify-between gap-6 md:gap-14 [&>div>span]:font-bold [&>div>span]:text-primary-background [&>div]:font-medium">
         <div className="flex-center flex-col items-start gap-4 [&>a:active]:text-primary-background sm:[&>a:focus]:text-secondary-foreground sm:[&>a:hover]:text-secondary-foreground [&>a]:transition-all [&>a]:duration-300">
           <span>{translation("navigation")}</span>

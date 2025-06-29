@@ -68,7 +68,7 @@ export default function RootLayout({
     <div className="flex-center mx-auto h-full min-h-[100dvh] w-full flex-col justify-between">
       <Navbar />
       <MobileNavbar />
-      <div className="w-full max-w-[1400px] overflow-x-clip md:overflow-x-visible">
+      <div className="w-full overflow-x-clip md:overflow-x-visible">
         {children}
       </div>
       <Footer />
