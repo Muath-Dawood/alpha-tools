@@ -39,7 +39,7 @@ const getJSONLD = () => ({
     contactType: "Customer Service",
   },
 });
-
+/*
 export async function generateMetadata({
   params: { locale },
 }: {
@@ -84,7 +84,7 @@ export async function generateMetadata({
       images: [images.socialMediaLogo.src],
     },
   };
-}
+} */
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));

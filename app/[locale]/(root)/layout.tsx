@@ -1,4 +1,3 @@
-import Chat from "@/components/shared/Chat";
 import Footer from "@/components/shared/Footer";
 import MobileNavbar from "@/components/shared/MobileNavbar";
 import Navbar from "@/components/shared/Navbar";
@@ -7,7 +6,7 @@ import { images } from "@/lib/data/images";
 import { getTranslations, unstable_setRequestLocale } from "next-intl/server";
 import { Toaster } from "react-hot-toast";
 
-export async function generateMetadata({
+/* export async function generateMetadata({
   params: { locale },
 }: {
   params: { locale: Locale };
@@ -52,7 +51,7 @@ export async function generateMetadata({
     },
   };
 }
-
+ */
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
