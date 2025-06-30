@@ -9,7 +9,7 @@ import boschLogo from "@/assets/images/bosch-logo.png";
 import makitaLogo from "@/assets/images/makita-logo.png";
 import dewaltLogo from "@/assets/images/dewalt-logo.png";
 import blackAndDeckerLogo from "@/assets/images/black-and-decker-logo.png";
-import aboutUs from "@/assets/images/about-us.png"
+import aboutUs from "@/assets/images/about-us.png";
 import delivaryIcon from "@/assets/icons/quick-delivary-icon.png";
 import satisfactionIcon from "@/assets/icons/quality-satisfaction-icon.png";
 import pricesIcon from "@/assets/icons/affordable-prices.png";
@@ -20,12 +20,15 @@ import concreteCoreService from "@/assets/images/concrete-core.png";
 import concreteScarifyService from "@/assets/images/concrete-scarifying.jpg";
 import rockCrushService from "@/assets/images/rock-crushing.png";
 import cctvService from "@/assets/images/sewage-cctv.jpg";
-import singlePhaseGen from "@/assets/images/single-phase-gen.png"
-import triPhaseGen from "@/assets/images/3-phase-gen.png"
-import ceramicTools from "@/assets/images/ceramic-tools.png"
-import circularSaws from "@/assets/images/circular-saws.png"
-import polishingTools from "@/assets/images/polishing-tools.png"
-import waterPumps from "@/assets/images/water-pumps.png"
+import singlePhaseGen from "@/assets/images/single-phase-gen.png";
+import triPhaseGen from "@/assets/images/3-phase-gen.png";
+import ceramicTools from "@/assets/images/ceramic-tools.png";
+import circularSaws from "@/assets/images/circular-saws.png";
+import polishingTools from "@/assets/images/polishing-tools.png";
+import waterPumps from "@/assets/images/water-pumps.png";
+import heroSlide1 from "@/assets/images/hero-slide-1.png";
+import heroSlide2 from "@/assets/images/hero-slide-2.png";
+import heroSlide3 from "@/assets/images/hero-slide-3.webp";
 
 export const images = {
   alphaToolsLogo,
@@ -55,5 +58,7 @@ export const images = {
   ceramicTools,
   circularSaws,
   polishingTools,
-  waterPumps
+  waterPumps,
 };
+
+export const heroSlides = [heroSlide1, heroSlide2, heroSlide3];
