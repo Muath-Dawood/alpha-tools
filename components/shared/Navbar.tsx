@@ -26,7 +26,6 @@ import { ChevronDown } from "lucide-react";
 import { AiOutlineGlobal } from "react-icons/ai";
 import useTextDirection from "@/hooks/useTextDirection";
 import { electricGenerators } from "@/lib/data/electricGenerators";
-import { services } from "@/lib/data/services";
 import { toolsForRent } from "@/lib/data/toolsForRent";
 
 const Navbar = () => {
