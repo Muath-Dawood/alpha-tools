@@ -20,6 +20,12 @@ import concreteCoreService from "@/assets/images/concrete-core.png";
 import concreteScarifyService from "@/assets/images/concrete-scarifying.jpg";
 import rockCrushService from "@/assets/images/rock-crushing.png";
 import cctvService from "@/assets/images/sewage-cctv.jpg";
+import singlePhaseGen from "@/assets/images/single-phase-gen.png"
+import triPhaseGen from "@/assets/images/3-phase-gen.png"
+import ceramicTools from "@/assets/images/ceramic-tools.png"
+import circularSaws from "@/assets/images/circular-saws.png"
+import polishingTools from "@/assets/images/polishing-tools.png"
+import waterPumps from "@/assets/images/water-pumps.png"
 
 export const images = {
   alphaToolsLogo,
@@ -43,5 +49,11 @@ export const images = {
   concreteCoreService,
   concreteScarifyService,
   rockCrushService,
-  cctvService
+  cctvService,
+  singlePhaseGen,
+  triPhaseGen,
+  ceramicTools,
+  circularSaws,
+  polishingTools,
+  waterPumps
 };
