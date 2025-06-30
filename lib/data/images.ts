@@ -13,7 +13,13 @@ import aboutUs from "@/assets/images/about-us.png"
 import delivaryIcon from "@/assets/icons/quick-delivary-icon.png";
 import satisfactionIcon from "@/assets/icons/quality-satisfaction-icon.png";
 import pricesIcon from "@/assets/icons/affordable-prices.png";
-import easyIcon from "@/assets/icons/easy-return-icon.png"
+import easyIcon from "@/assets/icons/easy-return-icon.png";
+import demolationService from "@/assets/images/building-demolation.png";
+import concreteCutService from "@/assets/images/concrete-cut.jpg";
+import concreteCoreService from "@/assets/images/concrete-core.png";
+import concreteScarifyService from "@/assets/images/concrete-scarifying.jpg";
+import rockCrushService from "@/assets/images/rock-crushing.png";
+import cctvService from "@/assets/images/sewage-cctv.jpg";
 
 export const images = {
   alphaToolsLogo,
@@ -31,5 +37,11 @@ export const images = {
   delivaryIcon,
   satisfactionIcon,
   pricesIcon,
-  easyIcon
+  easyIcon,
+  demolationService,
+  concreteCutService,
+  concreteCoreService,
+  concreteScarifyService,
+  rockCrushService,
+  cctvService
 };
